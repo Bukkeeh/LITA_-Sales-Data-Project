@@ -104,7 +104,8 @@ I tranformed the data in Power Query, checked for:
 
 Several expressions and functions were made to arrive at the desired KPI or Metrics.
 
-![image](https://github.com/user-attachments/assets/e6d95d0d-3510-40e9-91f7-ce2c75fbbd2b)
+![image](https://github.com/user-attachments/assets/37e04b83-24b4-464d-aa03-686885111623)
+
  
 
  
