@@ -47,11 +47,45 @@ This is an analysis of the Sales performaance LITA Capstone DataSet. It is done 
 
 ### Data Source
 ---
-The data used for this analysis is gotten from the Lita Capstone Sales Data. I studied the schema, objects related to the schema.
+The data used for this analysis is gotten from the LITA Capstone Sales Data. I studied the schema, objects related to the schema.
 
-### Data Source
+### Data Transformation
 ---
+This table was imported to SQL to write queries to extract  the following key insights:
 
+![image](https://github.com/user-attachments/assets/68465527-c2f4-4c92-82eb-47b493246153)
+
+![image](https://github.com/user-attachments/assets/6c3c9db6-1fa9-4c0c-9419-c29b3b43a0b1)
+
+![image](https://github.com/user-attachments/assets/59cb83fd-f676-442f-9c76-7bc5c8954a6f)
+
+![image](https://github.com/user-attachments/assets/66d9664f-5878-4448-8e4b-86f33c84164b)
+
+![image](https://github.com/user-attachments/assets/1831c5be-d07c-4552-9697-6f9f3ee2da52)
+
+![image](https://github.com/user-attachments/assets/fdd31c49-f8ac-44e1-9d93-ee9e373cda4c)
+
+![image](https://github.com/user-attachments/assets/b06082a5-c172-49b2-99e2-b0a289e4fd3f)
+
+![image](https://github.com/user-attachments/assets/535c9ea9-46f7-4f04-adad-958215643941)
+
+![image](https://github.com/user-attachments/assets/84ce9b2f-dc52-476a-8000-62d940255d8b)
+
+![image](https://github.com/user-attachments/assets/cc869ce1-b0b0-49b6-9039-355e3751f342)
+
+![image](https://github.com/user-attachments/assets/90bb9730-dfd0-430d-8431-6c156f5333f7)
+
+![image](https://github.com/user-attachments/assets/d3f57310-2ec8-46b2-9ad3-821a5dd459cd)
+
+![image](https://github.com/user-attachments/assets/cf3cc09d-23a0-4c8b-9006-dd3b8ba66d0f)
+
+![image](https://github.com/user-attachments/assets/9aa732cb-d976-4870-acfa-8afedc9b575d)
+
+![image](https://github.com/user-attachments/assets/22749315-ad3a-4be9-9c74-8e2293a2f973)
+
+![image](https://github.com/user-attachments/assets/f7380980-2711-44a9-b465-58febd187b59)
+
+![image](https://github.com/user-attachments/assets/7f643250-f4de-42f2-891a-2ec684f3cf34)
 
 PowerBI concepts like:
 ---
