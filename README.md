@@ -40,19 +40,23 @@ This is an analysis of the Sales performaance LITA Capstone DataSet. It is done 
 - Saving an Excel file as a comma delimited file.
 - Loading a CSV Flat file from Excel to SQL through task bar
 
-### Power BI Concepts like:
----
-- Transforming and cleaning raw data
-- Data Visualization
-
 ### Data Source
 ---
-The data used for this analysis is gotten from the LITA Capstone Sales Data. I studied the schema, objects related to the schema.
+The data used for this analysis is gotten from the LITA Capstone Sales Data. I studied the schema and objects related to the schema.
 
 ### Data Transformation
 ---
 This table was imported to SQL to write queries to extract  the following key insights:
-
+   - retrieve the total sales for each product category.
+   - find the number of sales transactions in each region.
+   - find the highest-selling product by total sales value.
+   - calculate total revenue per product.
+   - calculate monthly sales totals for the current year.
+   - find the top 5 customers by total purchase amount.
+   - calculate the percentage of total sales contributed by each region.oidentify products with no sales in the last quarter.
+     
+### The queries i wrote on SQL and tables are compiled and also uploaded here as follows:
+---
 ![image](https://github.com/user-attachments/assets/68465527-c2f4-4c92-82eb-47b493246153)
 
 ![image](https://github.com/user-attachments/assets/6c3c9db6-1fa9-4c0c-9419-c29b3b43a0b1)
@@ -87,19 +91,22 @@ This table was imported to SQL to write queries to extract  the following key in
 
 ![image](https://github.com/user-attachments/assets/7f643250-f4de-42f2-891a-2ec684f3cf34)
 
-PowerBI concepts like:
+### Power BI Concepts like:
 ---
+# Transforming and cleaning raw data
+I tranformed the data in Power Query, checked for: 
+- Column quality, 
+- Column profile
+- Column distributor
+- Appropriate data types.
 
-creating columns for calculations for dates, time, and duration
-Creating key performance indicators (KPIs) and other business calculations,
-Developing general DAX calculations that deal with text and numbers,
-Performed advanced DAX calculations for solving statistical measures and other mathematical formulas
-Data Modelling,
-Measures,
-filters,
-tooltips,
-Page buttons,
-Data Visualization
-Data Source:
+ # Data Analysis and Visualization
 
-The data used for this work is gotten from the AdventureWorks 2019 database 2019. I studied the Schema, Objects related to the Schema, data dictionary and found the right tables for the analysis.
+Several expressions and functions were made to arrive at the desired KPI or Metrics.
+
+![image](https://github.com/user-attachments/assets/e6d95d0d-3510-40e9-91f7-ce2c75fbbd2b)
+ 
+
+ 
+
+ 
