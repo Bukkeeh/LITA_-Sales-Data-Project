@@ -102,7 +102,7 @@ I tranformed the data in Power Query, checked for:
 
  # Data Analysis and Visualization
 
-Several expressions and functions were made to arrive at the desired KPI or Metrics.
+Several expressions and functions were made to arrive at the desired KPI 
 
 ![image](https://github.com/user-attachments/assets/37e04b83-24b4-464d-aa03-686885111623)
 
