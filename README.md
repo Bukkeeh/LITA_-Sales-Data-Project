@@ -2,11 +2,11 @@
 
 ### Sales Performance Analysis 
 ---
-This is a project that shows my ability to query data from Lita Capstone Database using Excel, SQL and thereafte using PowerBI to import, analyse and visualize.
+This is a project that shows my ability to query data from Lita Capstone DataSet using Excel, SQL and thereafte using PowerBI to import, analyse and visualize.
 
 ### Introduction 
 ---
-This is an analysis of the Sales performaance LITA Capstone DataSet. It is done by analyzing data from different schemas on the LITA Capstone DataSet. I anlyzed data from LITA SalesData table, which comprises of OrderID, Customer Id,  Product, Region, OrderDate, Quatity, UnitPrice, and Total Sales. I used SQL to query the data from the database and imported into PowerBI where the actual analysis was carried out.
+This is an analysis of the Sales performaance of LITA Capstone DataSet. It is done by analyzing data from different schemas on the LITA Capstone DataSet. I analyzed data from LITA SalesData table, which comprises of OrderID, Customer Id,  Product, Region, OrderDate, Quantity, UnitPrice and Total Sales. I used SQL to query the data from the database and imported into PowerBI where the actual analysis was carried out.
 
 ### Problem Statement
 ---
@@ -15,7 +15,7 @@ This is an analysis of the Sales performaance LITA Capstone DataSet. It is done 
 - Know the current sales performance and how it compares to past performance 
 - identify the areas where sales performance is lacking or could be improved.
 - To discover products that have the greatest impact on sales success.
-- Finally, the goal is to create data-driven plans that can aid in increasing sales, improving customer happiness, and driving corporate growth.
+- Finally, the goal is to create data-driven plans that can aid in increasing sales, improving customer satisfaction, and driving corporate growth.
 
 ### Skills and Concepts demonstrated
 ---
