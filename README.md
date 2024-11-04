@@ -17,6 +17,10 @@ This is an analysis of the Sales performaance of LITA Capstone DataSet. It is do
 - To discover products that have the greatest impact on sales success.
 - Finally, the goal is to create data-driven plans that can aid in increasing sales, improving customer satisfaction, and driving corporate growth.
 
+### Basic Statistics about the DataSet
+---
+Total Sales
+
 ### Skills and Concepts demonstrated
 ---
  Excel Concept like:  
