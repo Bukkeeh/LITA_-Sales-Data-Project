@@ -27,7 +27,8 @@ Total Sales
 - Using Excel metrics to calculate Total Sales by Product 
    = UnitPrice * Quantity = Total Sales
   
-- Using Pivot table to summarize:
+ ### Using Pivot table to summarize:
+ ---
 - Total Sales by Product
 - Total Sales by Region
 - Average Sales Per Product
@@ -38,6 +39,8 @@ Total Sales
 - Worst Selling Product by Region
   
   ![image](https://github.com/user-attachments/assets/df7e1e3f-502f-4152-89a0-a2484b13ba62)
+
+![image](https://github.com/user-attachments/assets/57626e8c-9a10-4ed6-8964-b4761933f8b1)
 
 ### SQL Concept like:
 ---
