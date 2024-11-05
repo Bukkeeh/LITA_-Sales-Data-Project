@@ -16,11 +16,7 @@ This is an analysis of the Sales performaance of LITA Capstone DataSet. It is do
 - identify the areas where sales performance is lacking or could be improved.
 - To discover products that have the greatest impact on sales success.
 - Finally, the goal is to create data-driven plans that can aid in increasing sales, improving customer satisfaction, and driving corporate growth.
-
-### Basic Statistics about the DataSet
----
-Total Sales
-
+  
 ### Skills and Concepts demonstrated
 ---
  Excel Concept like:  
@@ -100,21 +96,44 @@ This table was imported to SQL to write queries to extract  the following key in
 
 ### Power BI Concepts like:
 ---
-# Transforming and cleaning raw data
+ ### Transforming and cleaning raw data
+ ---
 I tranformed the data in Power Query, checked for: 
 - Column quality, 
 - Column profile
 - Column distributor
 - Appropriate data types.
 
- # Data Analysis and Visualization
-
+ ### Data Analysis and Visualization
+---
 Several expressions and functions were made to arrive at the desired KPI 
 
 ![image](https://github.com/user-attachments/assets/37e04b83-24b4-464d-aa03-686885111623)
 
- 
+ ### Insights
+ The visual shows:
+- Sales Revenue: Total revenue of sales is 2million naira, while average sales is 211.78, which showed the store to be   
+  performing moderately okay, but a lot need to be put in place to increase the performance of the store.
+- Top selling products: Top selling products of the store are shoes, shirts and hats, these products need to be stocked up more to 
+  increase the sales performance of the store
+- Low Selling products: Low selling products are socks, this product should be stocked moderately to reduce having them in shelf for a 
+  long time.
+- Regional Performance: South has the highest regional performance, followed by East, while West has the lowest performance by regions.
+- Price increment: Prices of top selling products should be increased at seasons when they are in high demands, to break even and 
+  increase sales performance
+- Reliable suppliers of high selling products should be gotten, to ensure that these products are always available to customers to 
+  avoid out of stock.
+- Customer satisfaction analysis: To sustain growth and boost loyalty, the store should focus on exceeding the expectation of customers 
+  by providing exceptional services. 
 
+ ### Recommendations 
+ The followings were recommended based on findings from the Data Analysis, which enabled us took informed decisions such as:
+- Aggressive Marketing: Aggressive marketing strategy should be carried out accross all regions and this should be more intense in 
+  regions with low performance, to boost sales.
+- Product Awareness: Awareness, promotions, loyalty rewards, and targeted marketing should be carried out on products with low sales, 
+  to increase their performance and drive growth.
+- Product stock: The store should focus on stocking more of products with high performance and stock less of low selling products, to 
+  ensure availability of these products at all times, to increase sales performance.
  
-
+Thanks
  
