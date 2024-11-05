@@ -112,11 +112,11 @@ Several expressions and functions were made to arrive at the desired KPI
 
  ### Insights
  The visual shows:
-- Sales Revenue: Total revenue of sales is 2million naira, while average sales is 211.78, which showed the store to be   
+- Sales Revenue: Total sales of 2million naira, while average sales is 211.78, which showed the store to be   
   performing moderately okay, but a lot need to be put in place to increase the performance of the store.
-- Top selling products: Top selling products of the store are shoes, shirts and hats, these products need to be stocked up more to 
-  increase the sales performance of the store
-- Low Selling products: Low selling products are socks, this product should be stocked moderately to reduce having them in shelf for a 
+- Top selling products: Top selling products of the store are shoes, shirts, hats, and gloves. These products need to be stocked up 
+  more to increase the sales performance of the store.
+- Low Selling products: Low selling products is socks, this product should be stocked moderately to reduce having them in shelf for a 
   long time.
 - Regional Performance: South has the highest regional performance, followed by East, while West has the lowest performance by regions.
 - Price increment: Prices of top selling products should be increased at seasons when they are in high demands, to break even and 
